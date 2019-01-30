@@ -2,7 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/webGL_point">webGL_point</router-link>
+      <router-link to="/webGL_point">webGL_point</router-link> |
+      <router-link to="/webGL_multPoint">webGL_multPoint</router-link>
     </div>
     <router-view/>
   </div>
